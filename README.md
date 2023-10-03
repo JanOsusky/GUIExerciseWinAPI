@@ -1,2 +1,2 @@
-# WinAPI---Graphics-interfaces-exercise-
+# GUIExerciseWinAPI
 GUI small rocket game using WinAPI
